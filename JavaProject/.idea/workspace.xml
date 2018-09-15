@@ -12,13 +12,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ar/collection/LinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="275">
+              <caret line="51" column="50" lean-forward="true" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayListTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ar/collection/ArrayListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#181#189#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,12 +49,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ar/collection/ArrayListTest.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/GroupEmployee.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/HashSetTest.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/StackTest.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ar/collection/ArrayListTest.java" />
       </list>
     </option>
   </component>
@@ -114,7 +127,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListTest">
+  <component name="RunManager" selected="Application.ArrayListTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ar.collection.ArrayListTest" />
+      <module name="JavaProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ar.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="GroupEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ar.collection.GroupEmployee" />
       <module name="JavaProject" />
@@ -205,9 +229,11 @@
       <item itemvalue="Application.HashSetTest" />
       <item itemvalue="Application.StackTest" />
       <item itemvalue="Application.LinkedListTest" />
+      <item itemvalue="Application.ArrayListTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListTest" />
         <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.StackTest" />
         <item itemvalue="Application.HashSetTest" />
@@ -225,15 +251,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537029101870</updated>
-      <workItem from="1537029108842" duration="8453000" />
+      <workItem from="1537029108842" duration="10068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8453000" />
+    <option name="totallyTimeSpent" value="10068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -244,7 +271,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -273,13 +300,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ar/collection/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ar/collection/GroupEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -314,10 +334,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ar/collection/LinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="275">
+          <caret line="51" column="50" lean-forward="true" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ar/collection/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#181#189#0" expanded="true" />
           </folding>
         </state>
       </provider>
