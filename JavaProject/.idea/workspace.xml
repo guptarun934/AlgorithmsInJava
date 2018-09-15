@@ -24,11 +24,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMapTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HashMapTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ar/collection/HashMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashtableTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ar/collection/HashtableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
-              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/com/ar/collection/ArrayListTest.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/VectorTest.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ar/collection/HashtableTest.java" />
       </list>
     </option>
   </component>
@@ -128,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMapTest">
+  <component name="RunManager" selected="Application.HashtableTest">
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ar.collection.ArrayListTest" />
       <module name="JavaProject" />
@@ -151,8 +164,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ar.collection.LinkedListTest" />
+    <configuration name="HashtableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ar.collection.HashtableTest" />
       <module name="JavaProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -162,8 +175,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ar.collection.StackTest" />
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ar.collection.LinkedListTest" />
       <module name="JavaProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -226,19 +239,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StackTest" />
       <item itemvalue="Application.LinkedListTest" />
       <item itemvalue="Application.ArrayListTest" />
       <item itemvalue="Application.VectorTest" />
       <item itemvalue="Application.HashMapTest" />
+      <item itemvalue="Application.HashtableTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashtableTest" />
         <item itemvalue="Application.HashMapTest" />
         <item itemvalue="Application.VectorTest" />
         <item itemvalue="Application.ArrayListTest" />
         <item itemvalue="Application.LinkedListTest" />
-        <item itemvalue="Application.StackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -252,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537029101870</updated>
-      <workItem from="1537029108842" duration="12016000" />
+      <workItem from="1537029108842" duration="13449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12016000" />
+    <option name="totallyTimeSpent" value="13449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -366,8 +379,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ar/collection/HashMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ar/collection/HashtableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
-          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
