@@ -12,13 +12,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HashSetTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HashSetTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ar/collection/HashSetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="499">
               <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StackTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ar/collection/StackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#385#394#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,6 +52,7 @@
         <option value="$PROJECT_DIR$/src/com/ar/collection/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/GroupEmployee.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/HashSetTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ar/collection/StackTest.java" />
       </list>
     </option>
   </component>
@@ -112,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashSetTest">
+  <component name="RunManager" selected="Application.StackTest">
     <configuration name="GroupEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ar.collection.GroupEmployee" />
       <module name="JavaProject" />
@@ -126,6 +139,17 @@
     </configuration>
     <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ar.collection.HashSetTest" />
+      <module name="JavaProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ar.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ar.collection.StackTest" />
       <module name="JavaProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -179,9 +203,11 @@
     <list>
       <item itemvalue="Application.GroupEmployee" />
       <item itemvalue="Application.HashSetTest" />
+      <item itemvalue="Application.StackTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackTest" />
         <item itemvalue="Application.HashSetTest" />
         <item itemvalue="Application.GroupEmployee" />
       </list>
@@ -197,12 +223,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537029101870</updated>
-      <workItem from="1537029108842" duration="3818000" />
+      <workItem from="1537029108842" duration="6958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3818000" />
+    <option name="totallyTimeSpent" value="6958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -217,12 +243,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12751678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12751678" />
       <window_info anchor="right" id="Database" />
       <window_info id="Learn" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -267,10 +293,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ar/collection/HashSetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="499">
           <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ar/collection/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#394#0" expanded="true" />
           </folding>
         </state>
       </provider>
