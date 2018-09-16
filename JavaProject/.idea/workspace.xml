@@ -12,30 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ArraysTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ar/collection/ArraysTest.java">
+      <file leaf-file-name="StringTokenizerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ar/collection/StringTokenizerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arrays1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ar/collection/Arrays1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -63,6 +44,7 @@
         <option value="$PROJECT_DIR$/src/com/ar/collection/HashtableTest.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/ArraysTest.java" />
         <option value="$PROJECT_DIR$/src/com/ar/collection/Arrays1.java" />
+        <option value="$PROJECT_DIR$/src/com/ar/collection/StringTokenizerTest.java" />
       </list>
     </option>
   </component>
@@ -135,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arrays1">
+  <component name="RunManager" selected="Application.StringTokenizerTest">
     <configuration name="Arrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ar.collection.Arrays1" />
       <module name="JavaProject" />
@@ -180,8 +162,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="VectorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ar.collection.VectorTest" />
+    <configuration name="StringTokenizerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ar.collection.StringTokenizerTest" />
       <module name="JavaProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -233,19 +215,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.VectorTest" />
       <item itemvalue="Application.HashMapTest" />
       <item itemvalue="Application.HashtableTest" />
       <item itemvalue="Application.ArraysTest" />
       <item itemvalue="Application.Arrays1" />
+      <item itemvalue="Application.StringTokenizerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringTokenizerTest" />
         <item itemvalue="Application.Arrays1" />
         <item itemvalue="Application.ArraysTest" />
         <item itemvalue="Application.HashtableTest" />
         <item itemvalue="Application.HashMapTest" />
-        <item itemvalue="Application.VectorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -259,12 +241,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537029101870</updated>
-      <workItem from="1537029108842" duration="15240000" />
+      <workItem from="1537029108842" duration="16657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15240000" />
+    <option name="totallyTimeSpent" value="16657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -279,7 +261,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -391,20 +373,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ar/collection/ArraysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ar/collection/Arrays1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="587">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#216#217#0" expanded="true" />
@@ -412,6 +384,23 @@
             <element signature="e#367#368#0" expanded="true" />
             <element signature="e#391#392#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ar/collection/ArraysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ar/collection/StringTokenizerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
